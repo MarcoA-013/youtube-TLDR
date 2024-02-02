@@ -107,7 +107,7 @@ def main():
         summary = chain.run(st.session_state.transcript)
 
         # Display the summary
-        st.subheader('Resumo')
+        st.subheader('Resumo do Vídeo')
         st.write(summary)
 
 if __name__ == "__main__":
