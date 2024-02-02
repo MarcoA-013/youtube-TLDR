@@ -56,7 +56,7 @@ def main():
     date_string = date.isoformat("T") + "Z"  # Convert to YouTube timestamp format
 
     # Create input fields for API keys
-    youtube_api_key = st.text_input("Insira sua chave de API do YouTube aqui", type="password")
+    youtube_api_key = st.text_input("Insira sua chave de API do YouTube aqui", type="password", type="password")
     openai_api_key = st.text_input("Insira sua chave de API da OpenAI aqui", type="password")  # Hide the key
 
     if st.button('Enviar'):
