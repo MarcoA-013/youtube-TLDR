@@ -13,5 +13,4 @@
 You can try the app here:
 [https://majacinka-youtlrd-main-op9sxt.streamlit.app/](https://majacinka-youtlrd-main-op9sxt.streamlit.app/)
 
-
-<img width="932" alt="Screenshot 2023-05-24 at 3 47 30 PM" src="https://github.com/majacinka/youTLRD/assets/39214611/72cef333-8356-4edf-a561-ed2bf6c6bfa8">
+<img width="932" alt="Screenshot 2023-05-24 at 3 47 30 PM" src="https://github.com/MarcoA-013/youtube-TLDR/blob/main/assets/youtube%20TLDR.png">
